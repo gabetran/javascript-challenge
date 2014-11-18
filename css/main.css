@@ -9,5 +9,9 @@ body {
 }
 
 form input[name='occupationOther'] {
-    display: none;
+   display: none;
+}
+
+.invalid-field {
+	border: 1px solid #FF0000;
 }
